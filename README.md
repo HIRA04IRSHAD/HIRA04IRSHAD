@@ -1,7 +1,7 @@
 # Hi, I'm Hira Irshad 👋
 
-B.Tech CSIT student and IIT Madras BS in Data Science learner.
-I build full-stack web apps with **React, Flask and Firebase**, and I'm exploring ML and LLM APIs.
+Dual-degree student: **B.Tech in Computer Science & IT** and **BS in Data Science & Applications at IIT Madras**.
+I build full-stack web apps with **MERN, Next.js, Flask and Firebase**, and I'm exploring ML and LLM APIs.
 
 ## 🚀 Featured projects
 
@@ -14,13 +14,19 @@ I build full-stack web apps with **React, Flask and Firebase**, and I'm explorin
 
 ## 🤝 Contributions
 
-- **Saranda House website (IIT Madras BS)**: WebOps team contributor. Merged pull requests for the Upcoming Meetups section, the scroll-to-top button and the newsletter route. [My PRs](https://github.com/saranda-webad/saranda_website_project/pulls?q=is%3Apr+author%3AHIRA04IRSHAD) · [site](https://saranda.iitmbs.org)
+- **Saranda House website, IIT Madras BS** ([saranda.iitmbs.org](https://saranda.iitmbs.org)): Developer on the WebOps team. I build and maintain the house website with Next.js and Sanity CMS, with merged pull requests to the codebase and ongoing work directly in Sanity. Received a Certificate of Appreciation from the IIT Madras BS programme.
 
 ## 🛠 Skills
 
-**Working with:** `Python` `Flask` `React` `JavaScript` `HTML/CSS` `Firebase` `SQLAlchemy` `SQLite` `Next.js` `Tailwind CSS` `Git`
+**Frontend:** `React` `Next.js` `JavaScript` `HTML/CSS` `Tailwind CSS`
 
-**Currently learning:** `pandas` `scikit-learn` `Google Cloud` `Cloud Build` `Kubernetes` `Docker`
+**Backend:** `Node.js` `Express` `Python` `Flask` `REST APIs`
+
+**Databases & CMS:** `MongoDB` `Firebase` `SQLAlchemy` `SQLite` `Sanity CMS`
+
+**Tools:** `Git` `GitHub` `Vite`
+
+**Currently learning:** `pandas` `scikit-learn` `Google Cloud` `Kubernetes` `Docker`
 
 ## 📫 Contact
 
