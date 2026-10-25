@@ -10,7 +10,7 @@ I build full-stack web apps with **MERN, Next.js, Flask and Firebase**, and I'm 
 | [StudyDuel](https://github.com/HIRA04IRSHAD/studyduel) · [live](https://studyduel-f6702.web.app) | Two-player study tracker for GATE and DSA prep: shared tasks, progress duels, schedules, real-time sync | React · Vite · Firebase Auth + Realtime DB |
 | [SmartSearch PDF](https://github.com/HIRA04IRSHAD/smartsearch-pdf) | Search a word in any PDF and see its page, chapter and context, with on-demand Gemini explanations | Flask · PyMuPDF · React · Gemini API |
 | [Vehicle Parking App](https://github.com/HIRA04IRSHAD/vehicle-parking-app) | Parking lot management with admin and user roles, booking and billing, and usage charts (IIT Madras MAD-1 project) | Flask · SQLAlchemy · Matplotlib |
-| [ShopAI](https://github.com/HIRA04IRSHAD/ShoppingPro) | Plain-language product search with budget parsing, category detection and a deal score (team project) | Flask · JavaScript |
+| [ShopAI](https://github.com/HIRA04IRSHAD/ShoppingPro) · [live](https://hira04irshad.github.io/ShoppingPro/) | Plain-language product search with budget parsing, category detection and a deal score (team project) | Flask · JavaScript |
 
 ## 🤝 Contributions
 
