@@ -4,6 +4,7 @@
 
 <a href="https://github.com/HIRA04IRSHAD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Dual-degree+student%3A+B.Tech+CSIT+%2B+BS+Data+Science+(IIT+Madras);Full-stack+developer%3A+MERN+%C2%B7+Next.js+%C2%B7+Flask+%C2%B7+Firebase;Building+web+apps+people+actually+use;Exploring+ML+and+LLM+APIs" alt="Typing intro"></a>
 
+<a href="https://hira04irshad.github.io/hira-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8FAE7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/hira04irshad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/HIRA04IRSHAD?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
 <img src="https://komarev.com/ghpvc/?username=HIRA04IRSHAD&style=for-the-badge&color=7C3AED&label=Profile+views" alt="Profile views">
@@ -153,6 +154,7 @@ Developer on the WebOps team: I build and maintain the house website with Next.j
 
 **Let's connect!** I'm always happy to talk about web development, data science and new projects.
 
+<a href="https://hira04irshad.github.io/hira-portfolio/"><img src="https://img.shields.io/badge/Portfolio-hira04irshad.github.io-8FAE7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/hira04irshad"><img src="https://img.shields.io/badge/LinkedIn-hira04irshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=110&section=footer" alt="" width="100%">
