@@ -142,7 +142,7 @@ Developer on the WebOps team: I build and maintain the house website with Next.j
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HIRA04IRSHAD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" alt="GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=HIRA04IRSHAD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&hide_rank=true" alt="GitHub stats" height="165">
 <img src="https://streak-stats.demolab.com?user=HIRA04IRSHAD&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" height="165">
 
 </div>
