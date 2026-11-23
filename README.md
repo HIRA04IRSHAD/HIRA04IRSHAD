@@ -188,6 +188,14 @@ Developer on the WebOps team: I build and maintain the house website with Next.j
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HIRA04IRSHAD&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" width="95%">
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HIRA04IRSHAD/HIRA04IRSHAD/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HIRA04IRSHAD/HIRA04IRSHAD/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/HIRA04IRSHAD/HIRA04IRSHAD/output/github-snake.svg" width="100%">
+</picture>
+
 </div>
 
 ---
