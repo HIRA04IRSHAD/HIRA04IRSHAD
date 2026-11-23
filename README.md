@@ -1,25 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=Hira%20Irshad&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Data%20Science%20Student&descAlignY=58&descSize=18" alt="Hira Irshad" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=Hira%20Irshad&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20ML%20Explorer%20%C2%B7%20Data%20Science%20Student&descAlignY=58&descSize=18" alt="Hira Irshad" width="100%">
 
-<a href="https://github.com/HIRA04IRSHAD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Dual-degree+student%3A+B.Tech+CSIT+%2B+BS+Data+Science+(IIT+Madras);Full-stack+developer%3A+MERN+%C2%B7+Next.js+%C2%B7+Flask+%C2%B7+Firebase;Building+web+apps+people+actually+use;Exploring+ML+and+LLM+APIs" alt="Typing intro"></a>
+<a href="https://github.com/HIRA04IRSHAD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=680&lines=AI%2FML+%26+Full-Stack+Intern+%40+IIT+Roorkee;GATE+CS%2FIT+2026+Qualified+in+3rd+Year;Selected+for+GCI+World+2026+%E2%80%94+University+of+Tokyo;Dual+Degree%3A+B.Tech+CSIT+%2B+BS+Data+Science+(IIT+Madras);Building+full-stack+apps+people+actually+use" alt="Typing intro"></a>
+
+<br>
 
 <a href="https://hira04irshad.github.io/hira-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8FAE7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/hira04irshad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/HIRA04IRSHAD?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+<a href="https://www.kaggle.com/hirairshad"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="https://leetcode.com/u/Hira04Irshad/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/09350e7e-4666-4af5-a27a-7d4703da04a7"><img src="https://img.shields.io/badge/Google_Cloud-98_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=HIRA04IRSHAD&style=for-the-badge&color=7C3AED&label=Profile+views" alt="Profile views">
 
 </div>
 
 ---
 
+## ⚡ Right Now
+
+- 🏛️ **AI/ML & Full-Stack Intern** at IIT Roorkee — Built Environment Lab, Google Centre for Climate Technology
+- 🌐 **WebOps Developer** at Saranda House, IIT Madras BS — building and maintaining the house website
+- 🎓 Pursuing dual degree: **B.Tech CSE** (MJPRU) + **BS Data Science** (IIT Madras)
+- 🧠 Exploring **RAG pipelines**, **LLM-based document extraction**, and **Explainable AI**
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🎯 GATE Qualified | 🌏 GCI World 2026 | 🏗️ IIT Roorkee Intern | ☁️ 98 Cloud Badges |
+|:---:|:---:|:---:|:---:|
+| CS/IT in 3rd year | U-Tokyo, Matsuo Lab | Full-stack + AI/ML | Google Cloud, Silver League |
+
+</div>
+
+- 🏅 **Certificate of Appreciation** — IIT Madras BS, for WebOps contributions to Saranda House
+- 🏅 **Certificate of Excellence** — Sundarbans House, IITM BS
+- 💻 **Women Who Master Hackathon** — Logitech x Aspire For Her
+- 🧪 **GCI World 2026** — Selected for data science programme, Matsuo-Iwasawa Lab, University of Tokyo
+
+---
+
 ## 👩‍💻 About Me
 
-- 🎓 Dual-degree student: **B.Tech in Computer Science & IT** and **BS in Data Science & Applications at IIT Madras**
-- 🌐 **Developer on the Saranda House WebOps team** (IIT Madras BS), working on the house website with Next.js and Sanity CMS
-- 🏆 **GATE CS/IT 2026 qualified**
-- 🛠️ I build full-stack web apps, from Flask and Firebase backends to React frontends
-- 🌱 Currently learning ML (pandas, scikit-learn) and cloud basics (Google Cloud, Docker, Kubernetes)
+- 🎓 Dual-degree student: **B.Tech in Computer Science & IT** (MJPRU, CGPA: 8.15) and **BS in Data Science & Applications** (IIT Madras)
+- 🏗️ Completed **AI/ML & Full-Stack internship at IIT Roorkee** — worked on GMAP, a Material Passport platform (Next.js 15, React 19, MongoDB, Vertex AI)
+- 🌐 **WebOps Developer** at Saranda House, IIT Madras BS — house website with Next.js and Sanity CMS
+- 🏆 **GATE CS/IT 2026 qualified** in third year of B.Tech
+- 🛠️ I build full-stack web apps: from Flask and Firebase backends to React and Next.js frontends
+- 🤖 Exploring ML (XGBoost, SHAP, scikit-learn), LLM APIs (Gemini, Groq) and RAG pipelines
 
 ---
 
@@ -27,13 +61,17 @@
 
 <div align="center">
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" alt="Languages">
+
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite" alt="Frontend skills">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,bootstrap" alt="Frontend skills">
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,firebase,sqlite" alt="Backend skills">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase,sqlite,mysql" alt="Backend skills">
 
 **Tools & Cloud**
 
@@ -146,16 +184,45 @@ Developer on the WebOps team: I build and maintain the house website with Next.j
 <img src="https://github-readme-stats.vercel.app/api?username=HIRA04IRSHAD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&hide_rank=true" alt="GitHub stats" height="165">
 <img src="https://streak-stats.demolab.com?user=HIRA04IRSHAD&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" height="165">
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HIRA04IRSHAD&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" width="95%">
+
+</div>
+
+---
+
+## 🏅 Certifications & Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google_AI-Gemini_Certified_Student-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini Certified">
+<img src="https://img.shields.io/badge/Google_Cloud-98_Badges_Silver_League-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Microsoft-Azure_CV_Solutions-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Azure">
+<img src="https://img.shields.io/badge/Microsoft-AI_Fluency-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AI Fluency">
+<img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-0096D6?style=flat-square&logo=hp&logoColor=white" alt="HP LIFE">
+<img src="https://img.shields.io/badge/TCS_iON-Certified_Young_Professional-1F4E8C?style=flat-square&logo=tcs&logoColor=white" alt="TCS iON">
+
 </div>
 
 ---
 
 <div align="center">
 
-**Let's connect!** I'm always happy to talk about web development, data science and new projects.
+<img src="https://github-profile-trophy.vercel.app/?username=HIRA04IRSHAD&theme=tokyonight&no-frame=true&column=6&margin-w=12" alt="Trophies">
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect!** I'm always happy to talk about web development, AI/ML and new projects.
 
 <a href="https://hira04irshad.github.io/hira-portfolio/"><img src="https://img.shields.io/badge/Portfolio-hira04irshad.github.io-8FAE7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/hira04irshad"><img src="https://img.shields.io/badge/LinkedIn-hira04irshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.kaggle.com/hirairshad"><img src="https://img.shields.io/badge/Kaggle-hirairshad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="https://leetcode.com/u/Hira04Irshad/"><img src="https://img.shields.io/badge/LeetCode-Hira04Irshad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=110&section=footer" alt="" width="100%">
 
