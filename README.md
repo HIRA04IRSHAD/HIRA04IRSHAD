@@ -40,7 +40,7 @@
 </div>
 
 - 🏅 **Certificate of Appreciation** — IIT Madras BS, for WebOps contributions to Saranda House
-- 🏅 **Certificate of Excellence** — Sundarbans House, IITM BS
+- 🏅 **Certificate of Excellence** — Sundarbans House, IITM BS, for the Ubuntu Mastery Quiz
 - 💻 **Women Who Master Hackathon** — Logitech x Aspire For Her
 - 🧪 **GCI World 2026** — Selected for data science programme, Matsuo-Iwasawa Lab, University of Tokyo
 
